@@ -1,4 +1,4 @@
-Playwright UI Test Suite for SauceDemo
+**Playwright UI Test Suite for SauceDemo**
 
 This project contains automated UI tests for SauceDemo, built with Playwright. It is designed to simulate real user behaviour and validate functionality across login, cart, checkout, and product sorting flows.
 
@@ -75,8 +75,7 @@ A set of manual test cases used during the exploratory and planning phase is inc
 All manual test cases for this project are tracked in JIRA.
 
 - 🔗 [JIRA Board](https://cvprojectandreeva.atlassian.net/jira/software/projects/SCRUM/boards/1?atlOrigin=eyJpIjoiNTE3NzYxYTE0YjMwNDU0MjkzNzRjNTRlYjA3MjE3MmEiLCJwIjoiaiJ9)
-- 🗂️ Excel backup: [manual-tests/test-cases.xlsx](Playwright-portfolio-project
-/Manual test cases.xlsx)
+- 🗂️ Excel backup: [manual-tests/test-cases.xlsx](Manual test cases.xlsx)
 
 👩‍💻 Author
 
