@@ -75,7 +75,7 @@ A set of manual test cases used during the exploratory and planning phase is inc
 All manual test cases for this project are tracked in JIRA.
 
 - 🔗 [JIRA Board](https://cvprojectandreeva.atlassian.net/jira/software/projects/SCRUM/boards/1?atlOrigin=eyJpIjoiNTE3NzYxYTE0YjMwNDU0MjkzNzRjNTRlYjA3MjE3MmEiLCJwIjoiaiJ9)
-- 🗂️ Excel backup: [manual-tests/test-cases.xlsx](Manual test cases.xlsx)
+- 🗂️ Excel backup: [Download test-cases.xlsx](Manual%20test%20cases.xlsx)
 
 👩‍💻 Author
 
